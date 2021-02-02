@@ -1,6 +1,6 @@
 # HTTP-Client-Server-Networking-Project-With-GUIs
 
-### Received 100% for code functionality, and 96% for UI functionality. Receieved 95% overall in this module (including exam).
+### Received 100% for code functionality, and 96% for UI functionality. Received 95% overall in this module (including exam).
 
 An HTTP and WHOIS request type, client-server Networking project written in C#.Net; WinForms GUIs are present for both the client and server side (must be run on WindowsOS for WinForms to show).
 The 'location.exe' is the client program, and the 'locationserver.exe' is the server program. There is a 2nd Readme.txt file in the project which offers more information too.
